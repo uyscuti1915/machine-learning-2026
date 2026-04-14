@@ -1,0 +1,14 @@
+
+#python
+__pycache__/
+*.py[cod]
+*$py.class
+*.zip
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.h5
+.vscode
+.idea/
+alpha101/
